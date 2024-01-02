@@ -1,5 +1,6 @@
-# Bank-Loan-Report using Tableau
---Analyzed Bank Loan data and created interactive dashboard using Tableau Public, SQL and EXCEL.
+# Bank-Loan-Report using Tableau Public
+
+Analyzed Bank Loan data and created interactive dashboard using Tableau Public, SQL and EXCEL.
 <br>
 # SUMMARY
 <br>
