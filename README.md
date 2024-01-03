@@ -1,4 +1,5 @@
 # Bank-Loan-Report using Tableau Public
+https://public.tableau.com/views/BankLoanReport_17041278622620/Summary?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Analyzed Bank Loan data and created interactive dashboard using Tableau Public, SQL and EXCEL.
 <br>
